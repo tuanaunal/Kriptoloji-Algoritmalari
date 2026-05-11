@@ -18,3 +18,13 @@ C:\Users\Tuana\OneDrive\Desktop\KriptoOdev\KriptoOdev\obj\Debug\KriptoOdev.cspro
 C:\Users\Tuana\OneDrive\Desktop\KriptoOdev\KriptoOdev\obj\Debug\KriptoOdev.csproj.CoreCompileInputs.cache
 C:\Users\Tuana\OneDrive\Desktop\KriptoOdev\KriptoOdev\obj\Debug\KriptoOdev.exe
 C:\Users\Tuana\OneDrive\Desktop\KriptoOdev\KriptoOdev\obj\Debug\KriptoOdev.pdb
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\bin\Debug\KriptoOdev.exe.config
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\bin\Debug\KriptoOdev.exe
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\bin\Debug\KriptoOdev.pdb
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.csproj.AssemblyReference.cache
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.Form1.resources
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.Properties.Resources.resources
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.csproj.GenerateResource.cache
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.csproj.CoreCompileInputs.cache
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.exe
+C:\Projelerim\Kriptoloji_Algoritmalari\KriptoOdev\obj\Debug\KriptoOdev.pdb

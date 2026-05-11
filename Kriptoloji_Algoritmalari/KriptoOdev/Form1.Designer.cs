@@ -76,7 +76,8 @@
             "Zigzag şifreleme",
             "Vigenere şifreleme",
             "Hill şifreleme",
-            "4 Kare şifreleme"});
+            "4 Kare şifreleme",
+            "RSA şifreleme"});
             this.cmbYontem.Location = new System.Drawing.Point(248, 137);
             this.cmbYontem.Name = "cmbYontem";
             this.cmbYontem.Size = new System.Drawing.Size(237, 28);
